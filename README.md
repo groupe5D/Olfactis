@@ -1,4 +1,4 @@
-# Olfactis — Diffuseur olfactif
+# Olfactis : Diffuseur olfactif
 
 Olfactis est un diffuseur d'odeurs piloté depuis un navigateur. L'interface web permet d'ouvrir et de fermer deux vannes d'odeur, avec une vanne d'air neutre qui prend le relais automatiquement. Chaque activation est enregistrée pour assurer la traçabilité des séances, et un rapport peut être exporté en PDF.
 
@@ -81,7 +81,7 @@ L'historique est enregistré dans `interface/tracabilite.json`. Ce fichier est e
 
 ## Auteurs
 
-Clara Liotier, Mathilde Leroy, Lena Sanchez, Roman Randazo, Coraline Maujean, Gabin Pereira — [SUPBIOTECH], 2026.
+Clara Liotier, Mathilde Leroy, Lena Sanchez, Roman Randazo, Coraline Maujean, Gabin Pereira - [SUPBIOTECH], 2026.
 
 ## Licence
 
