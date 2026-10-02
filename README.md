@@ -81,7 +81,7 @@ L'historique est enregistré dans `interface/tracabilite.json`. Ce fichier est e
 
 ## Auteurs
 
-Prénom Nom, Prénom Nom — [établissement], 2026.
+Clara Liotier, Mathilde Leroy, Lena Sanchez, Roman Randazo, Coraline Maujean, Gabin Pereira — [SUPBIOTECH], 2026.
 
 ## Licence
 
