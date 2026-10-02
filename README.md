@@ -1,3 +1,18 @@
+<p align="center">
+  <img src="images/logo.jpg" alt="Olfactis" width="320">
+</p>
+
+<p align="center">
+  <a href="https://groupe5d.github.io/Olfactis/"><img src="https://img.shields.io/badge/démo-en%20ligne-3a8db5" alt="Démo"></a>
+  <img src="https://img.shields.io/badge/Arduino-Uno-00878F?logo=arduino&logoColor=white" alt="Arduino Uno">
+  <img src="https://img.shields.io/badge/Node.js-Express-339933?logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/licence-MIT-1a5a78" alt="Licence MIT">
+</p>
+
+<p align="center">
+  <img src="images/interface.png" alt="Interface Olfactis" width="760">
+</p>
+
 # Olfactis : Diffuseur olfactif
 
 Olfactis est un diffuseur d'odeurs piloté depuis un navigateur. L'interface web permet d'ouvrir et de fermer deux vannes d'odeur, avec une vanne d'air neutre qui prend le relais automatiquement. Chaque activation est enregistrée pour assurer la traçabilité des séances, et un rapport peut être exporté en PDF.
