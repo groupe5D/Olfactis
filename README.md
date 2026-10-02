@@ -9,9 +9,6 @@
   <img src="https://img.shields.io/badge/licence-MIT-1a5a78" alt="Licence MIT">
 </p>
 
-<p align="center">
-  <img src="images/interface.png" alt="Interface Olfactis" width="760">
-</p>
 
 # Olfactis : Diffuseur olfactif
 
