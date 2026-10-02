@@ -23,9 +23,9 @@ Quand une vanne d'odeur est ouverte, la vanne d'air neutre se ferme. Quand les d
 
 | Broche Arduino | Relais | Rôle |
 |---|---|---|
-| D7 | IN1 | Vanne 1 — Odeur A |
-| D6 | IN2 | Vanne 2 — Odeur B |
-| D5 | IN3 | Vanne 3 — Air neutre |
+| D7 | IN1 | Vanne 1 : Odeur A |
+| D6 | IN2 | Vanne 2 : Odeur B |
+| D5 | IN3 | Vanne 3 : Air neutre |
 
 Matériel utilisé : une carte Arduino Uno, un module relais, trois électrovannes et un câble USB.
 
